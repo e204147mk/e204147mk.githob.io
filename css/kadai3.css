@@ -1,0 +1,19 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+h3{
+     color: white;
+    text-align: center;
+    background-color: red;
+}
+h5{
+     color: #ff00ff;
+}
+body{
+    background-image: url(../images/image04.jpg);
+}
+p{
+    color: blue;
+}
