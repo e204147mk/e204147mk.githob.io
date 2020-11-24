@@ -1,0 +1,19 @@
+h2{
+    color:white;
+    text-align: center;
+    background-color: aqua;
+}
+h3{
+    color:white;
+    text-align: center;
+    background-color: blue;
+}
+table{
+    background-color: aquamarine;
+}
+body{
+    background-image: url(../images/image05.jpg);
+}
+ol{
+    background-image: url(../images/image06.jpg);
+}
