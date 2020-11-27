@@ -1,0 +1,23 @@
+h1#title{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+body{
+    background-image: url(../images/image08.jpg);
+}
+h1#rinku{
+    text-align: center;
+    color: black;
+    background-color: blue;
+}
+h2#nintendo{
+     text-align: center;
+    color: white;
+    background-color:red;
+}
+h2#sony{
+     text-align: center;
+    color: white;
+    background-color:navy;
+}
